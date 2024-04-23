@@ -3,9 +3,9 @@
   <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
   <br><br>
   <samp>
-    I'm Omer Quadri :wave:
+    I'm Adarsh Singh :wave:
     <br><br>
-    I work as a Mobile :iphone: and Web :globe_with_meridians: developer!
+    I work as a Web :globe_with_meridians: developer!
     <br><br>
     I believe in a world where Milkshakes can solve any and all problems :grin:
     <br><br>
@@ -47,7 +47,7 @@
 ### - I'm currently...
 
 - Improving my React Native skills.
-- Learning to develop Mobile-first web-apps.
+- Learning to develop  web-apps.
 - Learning React with Redux.
 - Adding databases to my skill set.
 
