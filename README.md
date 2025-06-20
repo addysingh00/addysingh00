@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I am passionate about Java development and softwar
 - 🔭 I’m currently working on: [ANSHIKA INTERIOR DECORATORS]
 - 🌱 I’m currently learning: Advanced Java, Spring Boot
 - 💬 Ask me about: Java, Object-Oriented Programming, Web Development
-- 📫 How to reach me: [https://www.linkedin.com/in/adarsh-singh-6285ab208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNczRq1NTScuUDomEDbsM3A%3D%3D]
+- 📫 How to reach me: [adarshsingh25237@gmail.com]
 
 ### 🛠️ Languages and Tools:
 - Java
