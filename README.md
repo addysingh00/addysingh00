@@ -20,7 +20,7 @@ Welcome to my GitHub profile. I am passionate about Java development and softwar
 [![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=reponame)](https://github.com/yourusername/reponame)
 
 ### 🔗 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-- [Twitter](https://twitter.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/adarsh-singh-6285ab208?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BNczRq1NTScuUDomEDbsM3A%3D%3D)
+  
 
 Thanks for visiting my profile!
